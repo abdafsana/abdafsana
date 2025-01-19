@@ -1,31 +1,61 @@
-# 👋 Salam! Mən Afsana Abdullayeva
+<p align="right">
+ <img  src="https://komarev.com/ghpvc/?username=abdafsana&style=flat">
+</p>
 
-🎨 **Frontend Developer** | 💻 **UX/UI Enthusiast** | 🚀 **MasterCode Azerbaijan**  
 
-## 🐍 GitHub Aktivliyim
-![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Afsana!;" />
+</h1>
 
----
+<h3 align="left">A passionate software developer</h3>
 
-## 🛠️ Texnologiyalar və Alətlər
+<br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,typescript,git,github,figma&theme=light" alt="Skills" />
-</div>
+<div align="left">
 
-## 📈 Statistikalarım
+🌱 **Focused on:** Self-improvement, exploring **JavaScript ecosystems**  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdafsana&show_icons=true&theme=radical" alt="Afsana's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdafsana&theme=radical" alt="Afsana's GitHub Streak Stats" />
-</div>
+💬 **Ask Me About:** JavaScript, TypeScript, React.js, Next.js, or front-end topics  
 
-## 📫 Mənimlə Əlaqə  
-<div align="center">
+⚡  **Goals:** To build cutting-edge web projects and continuously improve my frontend development skills.
+
+ </div>
+ 
+<div align="left"> 
+  <a href="mailto:afsanaabdulayeva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://www.linkedin.com/in/afsana-abdullayeva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:afsana.abdullayeva@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="left">
+   <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,vscode,github,figma" />
+  </a>
+<br/>
+ <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,vite,redux,nodejs,git,mysql" />
+  </a>
+
+</div>
+
+<br/>
+<hr/>
+
+
+<h2 align="left">⚡ Stats ⚡</h2>
+<br>
+<div align=left>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abdafsana&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+   <img width=330 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdafsana&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=abdafsana&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+</div>
+
+<br/><br/>
