@@ -15,7 +15,7 @@
 
 🌱 **Focused on:** Self-improvement, exploring **JavaScript ecosystems**  
 
-💬 **Ask Me About:** JavaScript, TypeScript, React.js, Next.js, or front-end topics  
+💬 **Ask Me About:** JavaScript, HTML5,CSS3, React.js, or front-end topics  
 
 ⚡  **Goals:** To build cutting-edge web projects and continuously improve my frontend development skills.
 
